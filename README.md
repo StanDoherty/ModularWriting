@@ -1,6 +1,11 @@
 ## ModularWriting.com Home Page ##
 
-x
+The sources for this web site live at [GitHub ModularWriting](https://github.com/StanDoherty/ModularWriting). I invite thinkers, teachers, and practitioners to review the arguments here and consider joining the conversation. Some of the questions that shape the discussion are:
+
+1. What do we mean by "modular writing" or "modular information"?
+2. How many faces or shapes has it taken over the years -- poetry? rhetorical oratory? medieval chant? DITA? chatbots? conversational AI?
+3. Do these various implementations reveal any recurring themes or common denominators? 
+4. Do the most successful practitioners exhibit any particular or unusual skills?
 
 x
 
